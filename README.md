@@ -173,17 +173,16 @@ Internationalization (i18n)
 
 Accessibility improvements
 
-📸 Screenshots
-(Add your application screenshots here)
+
 
 Main Screen	Location Search	Detailed Forecast
 https://screenshots/main.png	https://screenshots/search.png	https://screenshots/details.png
 👥 Social Links
-Developer: [Your Name]
-Email: [your.email@example.com]
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
-Portfolio: https://yourportfolio.com
+Developer: Ahmed Fakhr El-Din Abdallah
+Email: ahmed.fakhr.elldin@gmail.com
+GitHub: https://github.com/AhmedFakhr999
+LinkedIn: [https://linkedin.com/in/Ahmed](https://www.linkedin.com/in/ahmed-fakhr-el-din-abdallah-769156233/)
+
 
 <div align="center">
 Built with ❤️ using Flutter
